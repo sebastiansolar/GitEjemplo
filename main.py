@@ -22,4 +22,4 @@ print(cadena)
 # git commit -am "mensaje"  -> Guardar mis cambios locales
 # git push origin main      -> Para empujar al servidor
 
-
+#git checkout <nombre rama> -

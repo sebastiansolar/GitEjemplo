@@ -4,7 +4,6 @@ from asyncore import file_dispatcher
 
 from pip import main
 
-=======
 
 palabra = "Hola"
 cadena = []

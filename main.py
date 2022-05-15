@@ -27,4 +27,8 @@ print(cadena)
 #git checkout -B <nombre rama>  -> Crea una nueva rama y se mueve hacia ella
 
 
-#git reset --hard  -> Te mueve al ultimo commit hecho, quita todos los cambios que no se han commiteado
+#git reset --hard  -> Te mueve al ultimo commit hecho, quita todos los cambios que no se han commiteado.mueve el head al ultimo cambio hecho.  Head es donde estoy parado. (puntero -> Apunta al estado actual)
+
+#git checkout HEAD <nombre archivo> -> De esta forma puedo deshacer los cambios solo de un archivo y no de todo el repo.
+
+#git log  -> permite ver la historia de los commit

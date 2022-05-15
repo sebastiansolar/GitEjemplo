@@ -4,6 +4,7 @@ from asyncore import file_dispatcher
 
 from pip import main
 
+=======
 
 palabra = "Hola"
 cadena = []
@@ -21,4 +22,5 @@ print(cadena)
 # git pull origin main      -> Me trae el ultimo commit
 # git commit -am "mensaje"  -> Guardar mis cambios locales
 # git push origin main      -> Para empujar al servidor
+
 

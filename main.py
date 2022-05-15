@@ -32,3 +32,4 @@ print(cadena)
 #git checkout HEAD <nombre archivo> -> De esta forma puedo deshacer los cambios solo de un archivo y no de todo el repo.
 
 #git log  -> permite ver la historia de los commit
+#git log --oneline  -> permite ver la historia del commit de forma resumida

@@ -34,3 +34,6 @@ print(cadena)
 #git log  -> permite ver la historia de los commit
 #git log --oneline  -> permite ver la historia del commit de forma resumida
 #git log --oneline --graph  -> historia de forma un poco mas grafica
+
+#git checkout <nombre commit>   -> Puedo volver a un commit anterior
+#git switch -                   -> me devuelve los cambios

@@ -37,3 +37,14 @@ print(cadena)
 
 #git checkout <nombre commit>   -> Puedo volver a un commit anterior
 #git switch -                   -> me devuelve los cambios
+
+
+# ------------------------------------------------------------------------------------------------------
+
+# Liberar el codigo o sacar una nueva version de un codigo, se le denomina Release.
+# Se puede crear un release desde GitHub
+
+
+# GitHub Issues se pueden crear dentro del repositorio, dentro de la misma pagina, los Issues son para informar sobre errores.
+
+# probando el issue

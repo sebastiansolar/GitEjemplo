@@ -1,5 +1,10 @@
 # Invertir una cadena
 
+from asyncore import file_dispatcher
+
+from pip import main
+
+
 palabra = "Hola"
 cadena = []
 
@@ -11,3 +16,10 @@ while x > 0:
 
 print(cadena)
     
+# git clone <repositorio>   -> Clonar todo el repositorio
+# git fetch                 -> Una vez clonado, descarga la informacion
+# git pull origin main      -> Me trae el ultimo commit
+# git commit -am "mensaje"  -> Guardar mis cambios locales
+# git push origin main      -> Para empujar al servidor
+
+

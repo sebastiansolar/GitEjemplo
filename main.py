@@ -25,3 +25,6 @@ print(cadena)
 #git checkout <nombre rama>     -> Cambio de rama
 #git branch <nombre rama>       -> Crea una nueva rama
 #git checkout -B <nombre rama>  -> Crea una nueva rama y se mueve hacia ella
+
+
+#git reset --hard  -> Te mueve al ultimo commit hecho, quita todos los cambios que no se han commiteado
